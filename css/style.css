@@ -45,6 +45,7 @@ img {
 
 .menu-logo {
 	margin: 0 10px;
+	flex:1;
 }
 
 .menu-nav {
@@ -74,7 +75,7 @@ img {
 		margin: 0px;
 	}
 	.menu-logo {
-		margin: 0 0 10px 0;
+		margin: 0 auto 10px auto;
 	}
 	.menu-nav ul li a {
 		padding-left: 0px;
